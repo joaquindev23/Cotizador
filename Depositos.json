@@ -1,0 +1,50 @@
+{
+    "Lista_de_Depositos": [
+        {
+            "Id_Deposito":"1",
+            "Nombre": "CASA CENTRAL SAN PEDRO DE JUJUY",
+            "Direccion": "LA URBANA S/N EX PARQUE INDUSTRIAL SAN PEDRO DE JUJUY - JUJUY",
+            "WhatsApp_Administracion_Casa_Central": "+5493888571363",
+            "WhatsApp_Logistica_Casa_Central": "+5493888571363",
+            "Latitud": -24.26215385486789,
+            "Longitud": -64.90492808193471
+        },
+        {
+            "Id_Deposito":"2",
+            "Nombre": "ANEXO SANTA FE ROSARIO",
+            "Direccion": "CALLE NETRI 1460 - ROSARIO - SANTA FE",
+            "WhatsApp_Administracion_Casa_Central": "+5491173661972",
+            "WhatsApp_Logistica_Casa_Central": "+5491173661972",
+            "Latitud": -32.90334243243167, 
+            "Longitud": -60.698270550925166
+        },
+        {
+            "Id_Deposito":"3",
+            "Nombre": "ANEXO CORDOBA CAPITAL",
+            "Direccion": "AVENIDA 11 DE SEMPTIEMBRE 300 - CORDOBA CAPITAL",
+            "WhatsApp_Administracion_Casa_Central": "+5491173661972",
+            "WhatsApp_Logistica_Casa_Central": "+5491173661972",
+            "Latitud": -31.446318372041233, 
+            "Longitud": -64.14831027433998
+        },
+        {
+            "Id_Deposito":"3",
+            "Nombre": "ANEXO CABA PARQUE PATRICIOS - BUENOS AIRES",
+            "Direccion": "MONTEAGUDO 663",
+            "WhatsApp_Administracion_Casa_Central": "+5491173661972",
+            "WhatsApp_Logistica_Casa_Central": "+5491173661972",
+            "Latitud": -34.6448800018568, 
+            "Longitud": -58.404329916541926
+        },
+        {
+            "Id_Deposito":"4",
+            "Nombre": "ANEXO LA QUIACA - JUJUY",
+            "Direccion": "XXXXXXXXX - XXXXX",
+            "WhatsApp_Administracion_Casa_Central": "+5491173661972",
+            "WhatsApp_Logistica_Casa_Central": "+5491173661972",
+            "Latitud": -22.103501172666764, 
+            "Longitud": -65.59962730218741
+        }
+    ]
+
+}

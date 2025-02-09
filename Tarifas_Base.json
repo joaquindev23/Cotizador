@@ -1,0 +1,314 @@
+[
+    {
+        "ID_Zona":1,
+        "Codigo":1,
+        "Descripcion":"BULTO MINIMO (MAXIMO 20 KG)",
+        "Tarifa_Base":14196.00
+    },
+    {
+        "ID_Zona":1,
+        "Codigo":2,
+        "Descripcion":"DE 21 KG A 100 KG",
+        "Tarifa_Base":211.102
+    },
+    {
+        "ID_Zona":1,
+        "Codigo":3,
+        "Descripcion":"DE 101 KG A 300 KG",
+        "Tarifa_Base":105.202
+    },
+    {
+        "ID_Zona":1,
+        "Codigo":4,
+        "Descripcion":"DE 301 KG A 500 KG",
+        "Tarifa_Base":80.529
+    },
+    {
+        "ID_Zona":1,
+        "Codigo":5,
+        "Descripcion":"DE 501 KG A 1000 KG",
+        "Tarifa_Base":77.421
+    },
+    {
+        "ID_Zona":1,
+        "Codigo":6,
+        "Descripcion":"DE 1001 KG A 1500 KG",
+        "Tarifa_Base":74.205
+    },
+    {
+        "ID_Zona":1,
+        "Codigo":7,
+        "Descripcion":"DE 1501 KG A 2000 KG",
+        "Tarifa_Base":53.288
+    },
+    {
+        "ID_Zona":1,
+        "Codigo":8,
+        "Descripcion":"DE 2001 KG A 2500 KG",
+        "Tarifa_Base":51.102
+    },
+    {
+        "ID_Zona":1,
+        "Codigo":9,
+        "Descripcion":"DE 2501 KG A 3000 KG",
+        "Tarifa_Base":49.701
+    },
+    {
+        "ID_Zona":1,
+        "Codigo":10,
+        "Descripcion":"DE 3001 KG EN ADELANTE",
+        "Tarifa_Base":43.452
+    },
+    {
+        "ID_Zona":1,
+        "Codigo":11,
+        "Descripcion":"METROS CUBICOS",
+        "Tarifa_Base":20638.558
+    },
+    {
+        "ID_Zona":1,
+        "Codigo":37,
+        "Descripcion":"METROS CUBICOS MUDANZA",
+        "Tarifa_Base":27666.111
+    },
+    {
+        "ID_Zona":1,
+        "Codigo":12,
+        "Descripcion":"EQUIPO COMPLETO",
+        "Tarifa_Base":0.0
+    },
+    {
+        "ID_Zona":2,
+        "Codigo":13,
+        "Descripcion":"BULTO MINIMO (MAXIMO 20 KG)",
+        "Tarifa_Base":17035.200
+    },
+    {
+        "ID_Zona":2,
+        "Codigo":14,
+        "Descripcion":"DE 21 KG A 100 KG",
+        "Tarifa_Base":300.205
+    },
+    {
+        "ID_Zona":2,
+        "Codigo":15,
+        "Descripcion":"DE 101 KG A 300 KG",
+        "Tarifa_Base":150.114
+    },
+    {
+        "ID_Zona":2,
+        "Codigo":16,
+        "Descripcion":"DE 301 KG A 500 KG",
+        "Tarifa_Base":114.554
+    },
+    {
+        "ID_Zona":2,
+        "Codigo":17,
+        "Descripcion":"DE 501 KG A 1000 KG",
+        "Tarifa_Base":110.298
+    },
+    {
+        "ID_Zona":2,
+        "Codigo":18,
+        "Descripcion":"DE 1001 KG A 1500 KG",
+        "Tarifa_Base": 106.072
+    },
+    {
+        "ID_Zona":2,
+        "Codigo":19,
+        "Descripcion":"DE 1501 KG A 2000 KG",
+        "Tarifa_Base":83.672
+    },
+    {
+        "ID_Zona":2,
+        "Codigo":20,
+        "Descripcion":"DE 2001 KG A 2500 KG",
+        "Tarifa_Base":73.363
+    },
+    {
+        "ID_Zona":2,
+        "Codigo":21,
+        "Descripcion":"DE 2501 KG A 3000 KG",
+        "Tarifa_Base":70.957
+    },
+    {
+        "ID_Zona":2,
+        "Codigo":22,
+        "Descripcion":"DE 3001 KG EN ADELANTE",
+        "Tarifa_Base":69.551
+    },
+    {
+        "ID_Zona":2,
+        "Codigo":23,
+        "Descripcion":"METROS CUBICOS",
+        "Tarifa_Base":25667.219
+    },
+    {
+        "ID_Zona":2,
+        "Codigo":38,
+        "Descripcion":"METROS CUBICOS MUDANZA",
+        "Tarifa_Base":33731.418
+    },
+    {
+        "ID_Zona":2,
+        "Codigo":24,
+        "Descripcion":"EQUIPO COMPLETO",
+        "Tarifa_Base":0.0
+    },
+    {
+        "ID_Zona":3,
+        "Codigo":25,
+        "Descripcion":"BULTO MINIMO (MAXIMO 20 KG)",
+        "Tarifa_Base":19874.400
+    },
+    {
+        "ID_Zona":3,
+        "Codigo":26,
+        "Descripcion":"DE 21 KG A 100 KG",
+        "Tarifa_Base":340.364
+    },
+    {
+        "ID_Zona":3,
+        "Codigo":27,
+        "Descripcion":"DE 101 KG A 300 KG",
+        "Tarifa_Base":170.182
+    },
+    {
+        "ID_Zona":3,
+        "Codigo":28,
+        "Descripcion":"DE 301 KG A 500 KG",
+        "Tarifa_Base":127.442
+    },
+    {
+        "ID_Zona":3,
+        "Codigo":29,
+        "Descripcion":"DE 501 KG A 1000 KG",
+        "Tarifa_Base":121.947
+    },
+    {
+        "ID_Zona":3,
+        "Codigo":30,
+        "Descripcion":"DE 1001 KG A 1500 KG",
+        "Tarifa_Base":117.352
+    },
+    {
+        "ID_Zona":3,
+        "Codigo":31,
+        "Descripcion":"DE 1501 KG A 2000 KG",
+        "Tarifa_Base":88.546
+    },
+    {
+        "ID_Zona":3,
+        "Codigo":32,
+        "Descripcion":"DE 2001 KG A 2500 KG",
+        "Tarifa_Base":85.159
+    },
+    {
+        "ID_Zona":3,
+        "Codigo":33,
+        "Descripcion":"DE 2501 KG A 3000 KG",
+        "Tarifa_Base":120.110
+    },
+    {
+        "ID_Zona":3,
+        "Codigo":34,
+        "Descripcion":"DE 3001 KG EN ADELANTE",
+        "Tarifa_Base":76.889
+    },
+    {
+        "ID_Zona":3,
+        "Codigo":35,
+        "Descripcion":"METROS CUBICOS",
+        "Tarifa_Base":29330.344
+    },
+    {
+        "ID_Zona":3,
+        "Codigo":39,
+        "Descripcion":"METROS CUBICOS MUDANZA",
+        "Tarifa_Base":43776.466
+    },
+    {
+        "ID_Zona":3,
+        "Codigo":36,
+        "Descripcion":"EQUIPO COMPLETO",
+        "Tarifa_Base":0.0
+    },
+    {
+        "ID_Zona":4,
+        "Codigo":83,
+        "Descripcion":"BULTO MINIMO (MAXIMO 20 KG)",
+        "Tarifa_Base":22713.600
+    },
+    {
+        "ID_Zona":4,
+        "Codigo":84,
+        "Descripcion":"DE 21 KG A 100 KG",
+        "Tarifa_Base":553.268
+    },
+    {
+        "ID_Zona":4,
+        "Codigo":85,
+        "Descripcion":"DE 101 KG A 300 KG",
+        "Tarifa_Base":356.937
+    },
+    {
+        "ID_Zona":4,
+        "Codigo":86,
+        "Descripcion":"DE 301 KG A 500 KG",
+        "Tarifa_Base":278.020
+    },
+    {
+        "ID_Zona":4,
+        "Codigo":87,
+        "Descripcion":"DE 501 KG A 1000 KG",
+        "Tarifa_Base":198.265
+    },
+    {
+        "ID_Zona":4,
+        "Codigo":88,
+        "Descripcion":"DE 1001 KG A 1500 KG",
+        "Tarifa_Base":190.730
+    },
+    {
+        "ID_Zona":4,
+        "Codigo":89,
+        "Descripcion":"DE 1501 KG A 2000 KG",
+        "Tarifa_Base":165.948
+    },
+    {
+        "ID_Zona":4,
+        "Codigo":90,
+        "Descripcion":"DE 2001 KG A 2500 KG",
+        "Tarifa_Base":148.321
+    },
+    {
+        "ID_Zona":4,
+        "Codigo":91,
+        "Descripcion":"DE 2501 KG A 3000 KG",
+        "Tarifa_Base":138.189
+    },
+    {
+        "ID_Zona":4,
+        "Codigo":92,
+        "Descripcion":"DE 3001 KG EN ADELANTE",
+        "Tarifa_Base":125.149
+    },
+    {
+        "ID_Zona":4,
+        "Codigo":93,
+        "Descripcion":"METROS CUBICOS",
+        "Tarifa_Base":53090.261
+    },
+    {
+        "ID_Zona":4,
+        "Codigo":94,
+        "Descripcion":"METROS CUBICOS MUDANZA",
+        "Tarifa_Base":79545837
+    },
+    {
+        "ID_Zona":4,
+        "Codigo":95,
+        "Descripcion":"EQUIPO COMPLETO",
+        "Tarifa_Base":0.0
+    }
+]

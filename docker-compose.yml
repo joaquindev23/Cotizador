@@ -1,0 +1,23 @@
+version: '3.8'
+
+services:
+  streamlit-app:
+    build: .
+    ports:
+      - "8501:8501"
+    volumes:
+      - .:/app
+    environment:
+      - STREAMLIT_SERVER_PORT=8501
+    secrets:
+      - supabase_url
+      - supabase_access_key
+      - openrouteservice_api_key
+
+secrets:
+  supabase_url:
+    file: .streamlit/secrets.toml
+  supabase_access_key:
+    file: .streamlit/secrets.toml
+  openrouteservice_api_key:
+    file: .streamlit/secrets.toml

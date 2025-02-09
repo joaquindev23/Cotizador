@@ -1,0 +1,466 @@
+[
+    {
+        "ID_Zona":1,
+        "Nombre_Zona": "Zona1",
+        "Localidad":"LA ESPERANZA",
+        "Recargo_Localidad":0,
+        "Latitud": -24.223864609703025, 
+        "Longitud": -64.83666012581583
+    },
+    {
+        "ID_Zona":1,
+        "Nombre_Zona": "Zona1",
+        "Localidad":"EL PIQUETE",
+        "Recargo_Localidad":0,
+        "Latitud": -24.17909272413544, 
+        "Longitud": -64.67819610787207
+
+    },
+    {
+        "ID_Zona":1,
+        "Nombre_Zona": "Zona1",
+        "Localidad":"CHALICAN",
+        "Recargo_Localidad":0,
+        "Latitud": -24.070030285460785, 
+        "Longitud": -64.8060769067121
+    },
+    {
+        "ID_Zona":1,
+        "Nombre_Zona": "Zona1",
+        "Localidad":"PUESTO VIEJO",
+        "Recargo_Localidad":0,
+        "Latitud": -24.48206947415188,
+        "Longitud": -64.9668051357245
+    },
+    {
+        "ID_Zona":1,
+        "Nombre_Zona": "Zona1",
+        "Localidad":"EL BORDO",
+        "Recargo_Localidad":0,
+        "Latitud": -24.659996626426764, 
+        "Longitud": -65.10208541183816
+    },
+    {
+        "ID_Zona":1,
+        "Nombre_Zona": "Zona1",
+        "Localidad":"METAN",
+        "Recargo_Localidad":0,
+        "Latitud": -25.496248768250506, 
+        "Longitud": -64.9710481660466
+    },
+    {
+        "ID_Zona":1,
+        "Nombre_Zona": "Zona1",
+        "Localidad":"YALA",
+        "Recargo_Localidad":0,
+        "Latitud": -24.12222758446989, 
+        "Longitud": -65.40179965760319
+    },
+    {
+        "ID_Zona":1,
+        "Nombre_Zona": "Zona1",
+        "Localidad":"REYES",
+        "Recargo_Localidad":0,
+        "Latitud": -24.168506022171105,  
+        "Longitud": -65.36626504510419
+    },
+    {
+        "ID_Zona":1,
+        "Nombre_Zona": "Zona1",
+        "Localidad":"CAMPO SANTO",
+        "Recargo_Localidad":0,
+        "Latitud": -24.681145270851232, 
+        "Longitud": -65.10404121370553
+    },
+    {
+        "ID_Zona":1,
+        "Nombre_Zona": "Zona1",
+        "Localidad":"FRAILE PINTADO",
+        "Recargo_Localidad":0,
+        "Latitud": -23.943686480366484, 
+        "Longitud": -64.80327276235155
+    },
+    {
+        "ID_Zona":1,
+        "Nombre_Zona": "Zona1",
+        "Localidad":"GRAL GUEMES",
+        "Recargo_Localidad":0,
+        "Latitud": -24.67377359552907, 
+        "Longitud": -65.04710074006934
+    },
+    {
+        "ID_Zona":1,
+        "Nombre_Zona": "Zona1",
+        "Localidad":"LIBERTADOR GENERAL SAN MARTIN",
+        "Recargo_Localidad":0,
+        "Latitud": -23.8, "Longitud": -64.7833
+    },
+    {
+        "ID_Zona":1,
+        "Nombre_Zona": "Zona1",
+        "Localidad":"LOS LAPACHOS",
+        "Recargo_Localidad":0,
+        "Latitud": -23.81482510316964, 
+        "Longitud": -64.79246245862812
+    },
+    {
+        "ID_Zona":1,
+        "Nombre_Zona": "Zona1",
+        "Localidad":"ROSARIO DE LA FRONTERA",
+        "Recargo_Localidad":0,
+        "Latitud": -25.797258383817375,
+        "Longitud": -64.96873969293675
+    },
+    {
+        "ID_Zona":1,
+        "Nombre_Zona": "Zona1",
+        "Localidad":"ROSARIO DE LERMA ",
+        "Recargo_Localidad":0,
+        "Latitud": -24.9776017918111, 
+        "Longitud": -65.57947085876567
+    },
+    {
+        "ID_Zona":1,
+        "Nombre_Zona": "Zona1",
+        "Localidad":"SALTA",
+        "Recargo_Localidad":0,
+        "Latitud": -24.79137674950297, 
+        "Longitud": -65.41599201442627
+    },
+    {
+        "ID_Zona":1,
+        "Nombre_Zona": "Zona1",
+        "Localidad":"LOZANO",
+        "Recargo_Localidad":0,
+        "Latitud": -24.083268286567062, 
+        "Longitud": -65.40280118345997
+    },
+    {
+        "ID_Zona":1,
+        "Nombre_Zona": "Zona1",
+        "Localidad":"JUJUY",
+        "Recargo_Localidad":0,
+        "Latitud": -24.190464705311587, 
+        "Longitud": -65.29268069602813
+    },
+    {
+        "ID_Zona":1,
+        "Nombre_Zona": "Zona1",
+        "Localidad":"PERICO",
+        "Recargo_Localidad":0,
+        "Latitud": -24.37551546137973, 
+        "Longitud": -65.1177106100916
+    },
+    {
+        "ID_Zona":1,
+        "Nombre_Zona": "Zona1",
+        "Localidad":"PALPALA",
+        "Recargo_Localidad":0,
+        "Latitud": -24.257846397486336, 
+        "Longitud": -65.2083880918654
+    },
+    {
+        "ID_Zona":1,
+        "Nombre_Zona": "Zona1",
+        "Localidad":"EL CARMEN",
+        "Recargo_Localidad":0,
+        "Latitud": -24.387691800685953,
+        "Longitud": 65.25808501119432
+    },
+    {
+        "ID_Zona":1,
+        "Nombre_Zona": "Zona1",
+        "Localidad":"MONTERRICO",
+        "Recargo_Localidad":0,
+        "Latitud": -24.442302672930754, 
+        "Longitud": -65.16141537207724
+    },
+    {
+        "ID_Zona":1,
+        "Nombre_Zona": "Zona1",
+        "Localidad":"SAN PEDRO",
+        "Recargo_Localidad":0,
+        "Latitud": -24.23180329789856, 
+        "Longitud": -64.86733976299968
+    },
+    {
+        "ID_Zona":1,
+        "Nombre_Zona": "Zona1",
+        "Localidad":"SAN ANTONIO",
+        "Recargo_Localidad":0,
+        "Latitud": -24.440896173773638, 
+        "Longitud": -65.16102913397965
+    },
+    {
+        "ID_Zona":2,
+        "Nombre_Zona": "Zona2",
+        "Localidad":"COLONIA SANTA ROSA",
+        "Recargo_Localidad":0,
+        "Latitud": -23.393441825432056, 
+        "Longitud": -64.42614508033033
+    },
+    {
+        "ID_Zona":2,
+        "Nombre_Zona": "Zona2",
+        "Localidad":"EMBARCACION",
+        "Recargo_Localidad":0,
+        "Latitud": -23.20476325389449, 
+        "Longitud": -64.09086718619484
+    },
+    {
+        "ID_Zona":2,
+        "Nombre_Zona": "Zona2",
+        "Localidad":"HUMAHUACA",
+        "Recargo_Localidad":0,
+        "Latitud": -23.205688498222166,  
+        "Longitud": -65.34742896557725
+    },
+    {
+        "ID_Zona":2,
+        "Nombre_Zona": "Zona2",
+        "Localidad":"ORAN",
+        "Recargo_Localidad":0
+        ,"Latitud": -23.135882748914753, 
+        "Longitud": -64.32363839347943
+    },
+    {
+        "ID_Zona":2,
+        "Nombre_Zona": "Zona2",
+        "Localidad":"TILCARA",
+        "Recargo_Localidad":0,
+        "Latitud": -23.576640674829942, 
+        "Longitud": -65.393280261792
+    },
+    {
+        "ID_Zona":2,
+        "Nombre_Zona": "Zona2",
+        "Localidad":"HUACALERA",
+        "Recargo_Localidad":0,
+        "Latitud": -23.43840226047926, 
+        "Longitud": -65.3488820893022
+    },
+    {
+        "ID_Zona":2,
+        "Nombre_Zona": "Zona2",
+        "Localidad":"MAIMARA",
+        "Recargo_Localidad":0,
+        "Latitud": -23.624893526391844, 
+        "Longitud": -65.40882404167668
+    },
+    {
+        "ID_Zona":2,
+        "Nombre_Zona": "Zona2",
+        "Localidad":"SANTA CLARA",
+        "Recargo_Localidad":0,
+        "Latitud": -24.30938466993379,  
+        "Longitud": -64.66135762695116
+    },
+    {
+        "ID_Zona":2,
+        "Nombre_Zona": "Zona2",
+        "Localidad":"CERRILLOS",
+        "Recargo_Localidad":0,
+        "Latitud": -24.90334055117552, 
+        "Longitud": -65.4875738156951
+    },
+    {
+        "ID_Zona":2,
+        "Nombre_Zona": "Zona2",
+        "Localidad":"EL CARRIL",
+        "Recargo_Localidad":0,
+        "Latitud": -25.07348563188166, 
+        "Longitud": -65.49179686002672
+    },
+    {
+        "ID_Zona":2,
+        "Nombre_Zona": "Zona2",
+        "Localidad":"YUTO",
+        "Recargo_Localidad":0,
+        "Latitud": -23.644678070876733, 
+        "Longitud": -64.47368265095011
+    },
+    {
+        "ID_Zona":2,
+        "Nombre_Zona": "Zona2",
+        "Localidad":"PICHANAL",
+        "Recargo_Localidad":0,
+        "Latitud": -23.31388408843679, 
+        "Longitud": -64.20703417549286
+    },
+    {
+        "ID_Zona":2,
+        "Nombre_Zona": "Zona2",
+        "Localidad":"URUNDEL",
+        "Recargo_Localidad":0,
+        "Latitud": -23.558390493141154, 
+        "Longitud": -64.39726881395781
+    },
+    {
+        "ID_Zona":2,
+        "Nombre_Zona": "Zona2",
+        "Localidad":"TUMBAYA",
+        "Recargo_Localidad":0,
+        "Latitud": -23.857548848054286, 
+        "Longitud": -65.46726187518584
+    },
+    {
+        "ID_Zona":2,
+        "Nombre_Zona": "Zona2",
+        "Localidad":"VOLCAN",
+        "Recargo_Localidad":0,
+        "Latitud": -23.91700007280245, 
+        "Longitud": -65.4642334888327
+    },
+    {
+        "ID_Zona":2,
+        "Nombre_Zona": "Zona2",
+        "Localidad":"UQUIA",
+        "Recargo_Localidad":0,
+        "Latitud": -23.304077858395846, 
+        "Longitud": -65.3581845688357
+    },
+    {
+        "ID_Zona":2,
+        "Nombre_Zona": "Zona2",
+        "Localidad":"PURMAMARCA",
+        "Recargo_Localidad":0,
+        "Latitud": -23.74627933573311, 
+        "Longitud": -65.49920517676837
+    },
+    {
+        "ID_Zona":2,
+        "Nombre_Zona": "Zona2",
+        "Localidad":"TABACAL",
+        "Recargo_Localidad":0,
+        "Latitud": -23.255781878755897, 
+        "Longitud": -64.24454915205327
+    },
+    {
+        "ID_Zona":2,
+        "Nombre_Zona": "Zona2",
+        "Localidad":"YRIGOYEN",
+        "Recargo_Localidad":0,
+        "Latitud": -23.244070585705984, 
+        "Longitud": -64.27703028113629
+    },
+    {
+        "ID_Zona":2,
+        "Nombre_Zona": "Zona2",
+        "Localidad":"VAQUEROS",
+        "Recargo_Localidad":0,
+        "Latitud": -24.69486896799523, 
+        "Longitud": -65.41084917790579
+    },
+    {
+        "ID_Zona":2,
+        "Nombre_Zona": "Zona2",
+        "Localidad":"CAMPO QUIJANO",
+        "Recargo_Localidad":0,
+        "Latitud": -24.910433149017496, 
+        "Longitud": -65.63570584593033
+    },
+    {
+        "ID_Zona":3,
+        "Nombre_Zona": "Zona3",
+        "Localidad":"ABRA PAMPA",
+        "Recargo_Localidad":0,
+        "Latitud": -22.722500668820256, 
+        "Longitud": -65.6948027193767
+    },
+    {
+        "ID_Zona":3,
+        "Nombre_Zona": "Zona3",
+        "Localidad":"AGUAS BLANCAS",
+        "Recargo_Localidad":0,
+        "Latitud": -22.735117570638188, 
+        "Longitud": -64.35415508672922
+    },
+    {
+        "ID_Zona":3,
+        "Nombre_Zona": "Zona3",
+        "Localidad":"TRES CRUCES ",
+        "Recargo_Localidad":0,
+        "Latitud": -22.918228892818632, 
+        "Longitud": -65.58805867162472
+    },
+    {
+        "ID_Zona":3,
+        "Nombre_Zona": "Zona3",
+        "Localidad":"METAN",
+        "Recargo_Localidad":0,
+        "Latitud": -22.918273045565662, 
+        "Longitud": -65.58799771851997
+    },
+    {
+        "ID_Zona":3,
+        "Nombre_Zona": "Zona3",
+        "Localidad":"EL GALPON",
+        "Recargo_Localidad":0,
+        "Latitud": -25.380944426918138, 
+        "Longitud": -64.65353616788032
+    },
+    {
+        "ID_Zona":3,
+        "Nombre_Zona": "Zona3",
+        "Localidad":"GENERAL MOSCONI",
+        "Recargo_Localidad":0,
+        "Latitud": -22.59718453603045, 
+        "Longitud": -63.81243408882682
+    },
+    {
+        "ID_Zona":3,
+        "Nombre_Zona": "Zona3",
+        "Localidad":"TARTAGAL",
+        "Recargo_Localidad":0,
+        "Latitud": -22.516372614228306, 
+        "Longitud": -63.793385412775876
+    },
+    {
+        "ID_Zona":4,
+        "Nombre_Zona": "Zona4",
+        "Localidad":"LA QUIACA",
+        "Recargo_Localidad":0,
+        "Latitud": -22.10430461824834, 
+        "Longitud": -65.59664008241191
+    },
+    {
+        "ID_Zona":4,
+        "Nombre_Zona": "Zona4",
+        "Localidad":"POCITOS",
+        "Recargo_Localidad":0,
+        "Latitud": -24.36914931870774, 
+        "Longitud": -66.99030421401939
+    },
+    {
+        "ID_Zona":4,
+        "Nombre_Zona": "Zona4",
+        "Localidad":"SALVADOR MAZZA ",
+        "Recargo_Localidad":0,
+        "Latitud": -22.01089675581919, 
+        "Longitud": -63.678981764855166
+    },
+    {
+        "ID_Zona":4,
+        "Nombre_Zona": "Zona4",
+        "Localidad":"PALMA SOLA",
+        "Recargo_Localidad":0,
+        "Latitud": -23.979415051003198, 
+        "Longitud": -64.30452912868085
+    },
+    {
+        "ID_Zona":4,
+        "Nombre_Zona": "Zona4",
+        "Localidad":"J V GONZALEZ ",
+        "Recargo_Localidad":0,
+        "Latitud": -23.977344732105806, 
+        "Longitud": -64.30402606205416
+    },
+    {
+        "ID_Zona":4,
+        "Nombre_Zona": "Zona4",
+        "Localidad":"CAFAYATE",
+        "Recargo_Localidad":0,
+        "Latitud": -26.072427478564602, 
+        "Longitud": -65.97595977926392
+    }
+]

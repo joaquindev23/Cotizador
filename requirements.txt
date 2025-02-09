@@ -1,0 +1,6 @@
+streamlit
+supabase
+qrcode[pil]
+requests
+pdfkit
+wkhtmltopdf
