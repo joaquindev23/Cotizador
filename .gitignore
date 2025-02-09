@@ -1,2 +1,51 @@
-.streamlit/secrets.toml
+# Archivos de Python compilados
+__pycache__/
+*.py[cod]
+*$py.class
 
+# Entorno virtual
+venv/
+.env/
+.venv/
+env/
+*.env
+
+# Configuración del editor y sistema operativo
+.vscode/
+.idea/
+*.swp
+.DS_Store
+Thumbs.db
+
+# Logs y bases de datos
+logs/
+*.log
+*.sqlite3
+
+# Configuración de dependencias
+Pipfile
+Pipfile.lock
+poetry.lock
+
+# Archivos de Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Configuración de pytest y cobertura de código
+.coverage
+.tox/
+nosetests.xml
+coverage.xml
+htmlcov/
+*.cover
+
+# Archivos de Docker y CI/CD
+docker-compose.override.yml
+
+# Claves y credenciales sensibles
+secrets/
+config.json
+config.yaml
+*.pem
+
+
+.streamlit/secrets.toml
