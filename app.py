@@ -424,10 +424,6 @@ with main_container:
                             st.session_state.costo_final = costo_final
                             st.subheader(f"**Cotizacion Estimada:** ${costo_final:,.2f}" if costo_final else "**Complete todos los campos**")
 
-
-                            # Dentro del bloque donde se genera la cotización:
-                            # ... (código anterior)
-
                             # Dentro del bloque donde se genera la cotización:
                             if st.button("📄 Generar Cotización", type="primary", use_container_width=True):
                                 if costo_final:
@@ -545,8 +541,6 @@ with main_container:
                                                                 st.components.v1.html(html_cotizacion, height=800, scrolling=True)
 
                                                             os.remove(pdf_path)
-
-                            # ... (código posterior)
                 else:
                     st.error("Localidad no encontrada")
 
