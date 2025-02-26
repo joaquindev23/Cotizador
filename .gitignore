@@ -47,3 +47,4 @@ config.json
 config.yaml
 *.pem
 
+.streamlit/
